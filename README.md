@@ -2,8 +2,6 @@
 
 A comprehensive demo website showcasing VibeVault, an innovative micro-savings application designed for India's Gen-Z audience. This demo illustrates how small daily expenditures can be transformed into significant savings through gamified UPI round-up functionality.
 
-### Build as a prototype for Microsoft SEFA-2025 Case Study Program
-
 ## 🎯 Project Overview
 
 VibeVault is designed around the concept of "micro-savings" - automatically rounding up UPI transactions and saving the spare change toward meaningful goals. The app targets Gen-Z users in India who want to save for experiences like concerts, festivals, and travel without feeling the burden of traditional saving methods.
